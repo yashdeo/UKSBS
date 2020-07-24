@@ -1,0 +1,7 @@
+com\uksbs\test\framework\Helpers\BuilderURL.class
+com\uksbs\test\framework\CommonMethods\CommonMethods.class
+com\uksbs\test\framework\hooks\Screenshot\SetBrowser.class
+com\uksbs\test\framework\hooks\Screenshot\ScreenshotHook.class
+com\uksbs\test\PageObjects\LoginPage.class
+com\uksbs\test\StepDefinitions\loginRegistrationStepDefinitions.class
+com\uksbs\test\RunDevSuite.class
